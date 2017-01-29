@@ -1,0 +1,56 @@
+General
+esc->exit program
+
+2D Calibration
+q->skip to 3d calibration
+
+2D Display Result
+q->next
+r->toggle right eye raw
+l->toggle left eye raw
+w->toggle left average
+e->toggle right average
+t->toggle linear fit
+
+3D Display result
+q->next
+r->toggle right eye raw
+l->toggle left eye raw
+w->toggle left fixation
+e->toggle right fixation
+s->plane 1
+d->plane 2
+f->plane 3
+g->plane 4
+h->set 1
+j->set 2 
+k->set 3
+l->set 4 
+p->replay (not done)
+t->toggle linear fit
+y->display average
+u->display clean average
+i->display weighted average
+o->display median
+p->display dti
+
+Sandbox
+i->select target practice mini game
+o->select image viewer
+p->select static target environment
+s->increase plane depth
+d->decrease plane depth
+e->no fit
+r->linear fit
+t->(x,y,eyesep)-> z linear regression
+y->(x,y,z)->x (x,y,z)->y (x,y,z)->z linear regression
+f->0
+g->10
+h->20
+j->30
+k->40
+l->50
+z->60
+x->70
+c->80
+v->90
